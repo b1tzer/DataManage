@@ -1,0 +1,7 @@
+
+name: dev.didispace.com
+
+db: dev-db
+
+mq: dev-mq
+

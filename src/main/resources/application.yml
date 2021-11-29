@@ -1,0 +1,12 @@
+# 默认激活dev配置
+spring:
+  profiles:
+    active: "dev"
+    group:
+      "dev": "dev,dev-db,dev-mq"
+      "test": "test,test-db,test-mq"
+      "prod": "prod,prod-db,prod-mq"
+
+
+
+
